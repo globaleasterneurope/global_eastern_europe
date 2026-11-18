@@ -1,6 +1,7 @@
+
 body {
-    background-color: #f1e0c5;
-    color: #988363;
+    background-color: #e8eddf;
+    color: #71816d;
     font-family: Tahoma;
     font-size: 22px;
 }
@@ -14,7 +15,7 @@ h1, h2 {
 }
 
 h3 {
-    color: #988363;
+    color: #71816d;
 }
 
 a {
@@ -43,7 +44,7 @@ a:has(button):hover {
 
 button {
     background-color: #71816d;
-    color: white;
+    color: #e8eddf;
     padding: 12px 25px;
     border: none;
     border-radius: 5px;
@@ -52,11 +53,12 @@ button {
 }
 
 button:hover {
-    background-color: #c9b79c;
+    background-color: #f5cb5c;
+    color: #71816d;
 }
 
 nav {
-    background-color: #c9b79c;
+    background-color: #cfdbd5;
     padding: 15px;
 }
 
@@ -75,6 +77,6 @@ table {
 }
 
 td, th {
-    border: 1px solid #333333;
+    border: 1px solid #cfdbd5;
     padding: 8px 12px;
 }
